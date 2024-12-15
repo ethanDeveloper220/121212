@@ -10,6 +10,11 @@ const games = [
         url: "https://rocketbotroyale-5.onrender.com/",
         image: "https://static.wixstatic.com/media/d0c5be_340d3a8d80104f39b07a297380a979a0~mv2.png/v1/fill/w_560,h_314,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/rbr-logo.png"
     }
+    {
+        name: "retro bowl",
+        url: "https://asgfasgasgags.github.io/files/RetroBowl/",
+        image: "https://upload.wikimedia.org/wikipedia/en/b/bf/Retro_Bowl_cover.png"
+    },
 ];
 
 // Function to create game card elements dynamically
